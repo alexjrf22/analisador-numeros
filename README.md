@@ -1,10 +1,20 @@
-# Horário
+# Analisador de números
 
-## Meu primeiro projeto em **JS
+## Projeto de estudo JS
 
-### Projeto simples mostra a hora do dia para o usário, aplica uma foto e muda o background referenciando: 
+### Entradas
 
-- Manhã
-- Tarde
-- Noite
+- Input aceita apenas números entre 1 e 100
+
+### saídas
+
+- Números listados;
+- quantidade de números adicionados;
+- número maior e menor;
+- média dos números;
+- soma dos números 
+
+### tela 
+
+<img src="imagens/img.png">
 
